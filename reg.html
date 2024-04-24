@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up Page</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(27deg, rgba(0,255,192,1) 34%, rgba(9,9,121,1) 34%, rgba(0,212,255,1) 69%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .signup-container {
+      background: transparent;
+      padding: 20px;
+      border-radius: 10px;
+      width: 350px;
+      height: 280px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .signup-container h2 {
+      margin-bottom: 20px;
+      text-align: center;
+      color: white;
+    }
+
+    .signup-container form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .signup-container input[type="text"],
+    .signup-container input[type="email"],
+    .signup-container input[type="password"],
+    .signup-container input[type="submit"] {
+      margin-bottom: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    .signup-container input[type="submit"] {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .signup-container input[type="submit"]:hover {
+      background-color: #0056b3;
+      color: aqua;
+    }
+
+    .signup-container .login-link {
+      text-align: center;
+    }
+
+    .signup-container .login-link a {
+      text-decoration: none;
+      color: #fff;
+    }
+    
+    .signup-container .login-link a:hover {
+      text-decoration: none;
+      color: rgb(208, 255, 0);
+      font-size: large;
+      font-weight: 800;
+      margin-right: 10px;
+    }
+    
+    
+  </style>
+</head>
+<body>
+  <div class="signup-container">
+    <h2>Sign Up</h2>
+    <form action="log2.html">
+      <input type="text" placeholder="Full Name" required>
+      <input type="email" placeholder="Email" required>
+      <input type="password" placeholder="Password" required>
+      <input type="submit" value="Sign Up" href="log2.html">
+    </form>
+    <div class="login-link">
+      <a href="log2.html">Already have an account? Login</a>
+    </div>
+  </div>
+</body>
+</html>
