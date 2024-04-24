@@ -1,0 +1,378 @@
+.index{
+  text-decoration: none;
+  color: black;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #eee;
+  width: 1160px;
+  height: 594px;
+}
+.romeease {
+  position: absolute;
+  top: 76px;
+  left: 41px;
+  font-family: Pacifico;
+  color: black;
+}
+.image-4-icon {
+  position: absolute;
+  top: 26px;
+  left: 33px;
+  width: 97px;
+  height: 66px;
+  object-fit: cover;
+}
+.about-us,
+.contact-us,
+.gallery,
+.home,
+.packages {
+  position: absolute;
+  top: 59px;
+  left: 264px;
+  font-size: 20px;
+  color: black;
+}
+.about-us,
+.contact-us,
+.gallery,
+.packages {
+  left: 396px;
+}
+.about-us,
+.contact-us,
+.packages {
+  left: 554px;
+}
+.about-us,
+.contact-us {
+  left: 718px;
+}
+.contact-us {
+  left: 859px;
+}
+.airport-icon,
+.image-43-icon,
+.test-account-icon {
+  position: absolute;
+  top: 52px;
+  left: 1286px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.airport-icon,
+.test-account-icon {
+  top: 50px;
+  left: 1401px;
+  width: 35px;
+  height: 35px;
+}
+.airport-icon {
+  top: 42px;
+  left: 1333px;
+  width: 49.5px;
+  height: 49.5px;
+  object-fit: contain;
+}
+.explore-the-worlds {
+  margin: 0;
+}
+.explore-the-worlds-container {
+  position: absolute;
+  top: 419px;
+  left: 95px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: lora;
+  color: black;
+}
+.image-44-icon {
+  position: absolute;
+  top: 162px;
+  left: 768px;
+  width: 736px;
+  height: 545px;
+  object-fit: cover;
+}
+.discover-the-worlds {
+  position: absolute;
+  top: 207px;
+  left: 95px;
+  font-size: 45px;
+  display: inline-block;
+  font-family: Lora;
+  color: black;
+  width: 674px;
+}
+.frame-item {
+  position: absolute;
+  top: 567px;
+  left: 95px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 52px;
+  background-color: #d9d9d9;
+  width: 231px;
+  height: 50px;
+}
+.explore-more {
+  position: absolute;
+  top: 580px;
+  left: 132px;
+  font-size: 20px;
+  font-weight: 500;
+  color: black;
+}
+.paper-plane-icon {
+  position: absolute;
+  top: 577px;
+  left: 272px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.frame-inner {
+  position: absolute;
+  top: 809px;
+  left: 0;
+  background-color: #f1f1f1;
+  width: 1536px;
+  height: 149px;
+}
+.lorem-ipsum-dolor-container,
+.my-travel-gives {
+  position: absolute;
+  color: black;
+  text-align: center;
+}
+.my-travel-gives {
+  top: 833px;
+  left: calc(50% - 268px);
+  font-size: 25px;
+  line-height: 39.6px;
+}
+.lorem-ipsum-dolor-container {
+  top: 879px;
+  left: calc(50% - 584px);
+  font-size: 16px;
+  line-height: 22px;
+}
+.saint-augustine,
+.the-world-is {
+  position: absolute;
+  left: calc(50% - 171px);
+  color: black;
+}
+.the-world-is {
+  top: 1143px;
+  font-size: 25px;
+  line-height: 33px;
+  display: flex;
+  align-items: center;
+  width: 833px;
+}
+.saint-augustine {
+  top: 1211px;
+  font-size: 20px;
+  line-height: 26.4px;
+  text-align: center;
+}
+.image-45-icon {
+  position: absolute;
+  top: 1028px;
+  left: 97px;
+  border-radius: 160px;
+  width: 394px;
+  height: 394px;
+  object-fit: cover;
+}
+.rectangle-div {
+  position: absolute;
+  top: 1517px;
+  left: 0;
+  background-color: #808080;
+  width: 1536px;
+  height: 356px;
+}
+.facebook-icon,
+.instagram-icon,
+.linkedin-2-icon,
+.twitterx-icon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 43px;
+  height: 38px;
+  object-fit: cover;
+}
+.instagram-icon,
+.linkedin-2-icon,
+.twitterx-icon {
+  left: 68px;
+}
+.instagram-icon,
+.linkedin-2-icon {
+  top: 0;
+  left: 135px;
+  width: 48px;
+  height: 42px;
+}
+.linkedin-2-icon {
+  top: 2px;
+  left: 208px;
+  width: 43px;
+  height: 38px;
+}
+.facebook-parent {
+  position: absolute;
+  top: 1746px;
+  left: 57px;
+  width: 251px;
+  height: 42px;
+}
+.about-us1,
+.contact-information,
+.faqs {
+  position: absolute;
+  top: 1580px;
+  left: 454px;
+  font-weight: 500;
+}
+.contact-information,
+.faqs {
+  left: 813px;
+}
+.faqs {
+  top: 1656px;
+  left: 454px;
+}
+.cancellation-policy,
+.terms-conditions,
+.travel-resources {
+  position: absolute;
+  top: 1618px;
+  left: 454px;
+  font-weight: 500;
+}
+.cancellation-policy,
+.travel-resources {
+  top: 1694px;
+}
+.travel-resources {
+  top: 1732px;
+}
+.newsletter-signup,
+.site-map,
+.social-media-links {
+  position: absolute;
+  top: 1618px;
+  left: 813px;
+  font-weight: 500;
+}
+.newsletter-signup,
+.site-map {
+  top: 1770px;
+  left: 454px;
+}
+.site-map {
+  top: 1694px;
+  left: 813px;
+}
+.accessibility-statement,
+.copyright-information,
+.language-selector {
+  position: absolute;
+  top: 1656px;
+  left: 813px;
+  font-weight: 500;
+}
+.accessibility-statement,
+.language-selector {
+  top: 1770px;
+}
+.language-selector {
+  top: 1732px;
+  left: 811px;
+}
+.romeease1 {
+  position: absolute;
+  top: 1667px;
+  left: 88px;
+  font-size: 30px;
+  font-family: Pacifico;
+  display: inline-block;
+  width: 142px;
+  height: 45px;
+}
+.image-46-icon {
+  position: absolute;
+  top: 1573px;
+  left: 73px;
+  width: 173px;
+  height: 118px;
+  object-fit: cover;
+}
+.stay-connected-with {
+  position: absolute;
+  top: 1580px;
+  left: 1155px;
+  font-size: 22px;
+}
+.enter-your-e-mail {
+  position: absolute;
+  top: 1629px;
+  left: 1163px;
+  font-weight: 300;
+  color: #afafaf;
+}
+.line-div {
+  position: absolute;
+  top: 1655.5px;
+  left: 1154.5px;
+  border-top: 1px solid white;
+  box-sizing: border-box;
+  width: 269px;
+  height: 1px;
+}
+.frame-child1 {
+  position: absolute;
+  top: 1678px;
+  left: 1155px;
+  border-radius: 40px;
+  background-color: #b6b6b6;
+  width: 150px;
+  height: 40px;
+}
+.send {
+  position: absolute;
+  top: 1687px;
+  left: 1208px;
+  font-weight: 500;
+}
+.image-48-icon {
+  position: absolute;
+  top: 1414px;
+  left: 0;
+  width: 1536px;
+  height: 110px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 1873px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: white;
+  font-family: Inter;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+}

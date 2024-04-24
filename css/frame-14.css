@@ -1,0 +1,453 @@
+.romeease2 {
+  position: absolute;
+  top: 76px;
+  left: 41px;
+  font-family: Pacifico;
+}
+.image-4-icon1 {
+  position: absolute;
+  top: 26px;
+  left: 33px;
+  width: 97px;
+  height: 66px;
+  object-fit: cover;
+}
+.about-us2,
+.contact-us1,
+.gallery1,
+.home1,
+.packages1 {
+  position: absolute;
+  top: 59px;
+  left: 264px;
+  font-size: 20px;
+}
+.about-us2,
+.contact-us1,
+.gallery1,
+.packages1 {
+  left: 396px;
+}
+.about-us2,
+.contact-us1,
+.packages1 {
+  left: 554px;
+}
+.about-us2,
+.contact-us1 {
+  left: 528px;
+}
+.contact-us1 {
+  left: 660px;
+}
+.image-43-icon1 {
+  position: absolute;
+  top: 52px;
+  left: 1286px;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.airport-icon1,
+.test-account-icon1 {
+  position: absolute;
+  top: 50px;
+  left: 1401px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.airport-icon1 {
+  top: 42px;
+  left: 1333px;
+  width: 49.5px;
+  height: 49.5px;
+  object-fit: contain;
+}
+.frame-child10,
+.frame-child2,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  position: absolute;
+  top: 213px;
+  left: 65px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+  background-color: #d9d9d9;
+  width: 434px;
+  height: 368px;
+}
+.frame-child10,
+.frame-child3,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 641px;
+}
+.frame-child10,
+.frame-child4,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 1069px;
+}
+.frame-child10,
+.frame-child5,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 213px;
+  left: 551px;
+}
+.frame-child10,
+.frame-child6,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 641px;
+}
+.frame-child10,
+.frame-child7,
+.frame-child8,
+.frame-child9 {
+  top: 1069px;
+}
+.frame-child10,
+.frame-child8,
+.frame-child9 {
+  top: 213px;
+  left: 1036px;
+}
+.frame-child10,
+.frame-child9 {
+  top: 641px;
+}
+.frame-child10 {
+  top: 1069px;
+}
+.top-places-to-visit-in-the-wor-icon,
+.world-best-places-to-visit-in-icon {
+  position: absolute;
+  top: 213px;
+  left: 65px;
+  border-radius: 30px 30px 0 0;
+  width: 434px;
+  height: 271px;
+  object-fit: cover;
+}
+.top-places-to-visit-in-the-wor-icon {
+  top: 641px;
+  height: 276px;
+}
+.top-places-to-visit-in-the-wor-icon1,
+.top-places-to-visit-in-the-wor-icon2,
+.world-best-places-to-visit-in-icon1 {
+  position: absolute;
+  top: 1069px;
+  left: 65px;
+  border-radius: 30px 30px 0 0;
+  width: 434px;
+  height: 275px;
+  object-fit: cover;
+}
+.top-places-to-visit-in-the-wor-icon1,
+.top-places-to-visit-in-the-wor-icon2 {
+  top: 213px;
+  left: 551px;
+  height: 271px;
+}
+.top-places-to-visit-in-the-wor-icon2 {
+  top: 1069px;
+  height: 275px;
+}
+.image-47-icon,
+.top-places-to-visit-in-the-wor-icon3,
+.top-places-to-visit-in-the-wor-icon4,
+.top-places-to-visit-in-the-wor-icon5 {
+  position: absolute;
+  top: 213px;
+  left: 1036px;
+  border-radius: 30px 30px 0 0;
+  width: 434px;
+  height: 275.9px;
+  object-fit: cover;
+}
+.image-47-icon,
+.top-places-to-visit-in-the-wor-icon4,
+.top-places-to-visit-in-the-wor-icon5 {
+  top: 641px;
+  height: 276px;
+}
+.image-47-icon,
+.top-places-to-visit-in-the-wor-icon5 {
+  top: 1069px;
+  height: 275px;
+}
+.top-places-to-visit-in-the-wor-icon5 {
+  top: 639px;
+  left: 551px;
+  height: 276px;
+}
+.maui-hawaii,
+.montreal-canada,
+.the-grand-canyon {
+  position: absolute;
+  top: 522px;
+  left: 125px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.maui-hawaii,
+.montreal-canada {
+  top: 952px;
+  left: 213px;
+}
+.montreal-canada {
+  top: 1379px;
+  left: 176px;
+}
+.hong-kong,
+.istanbul-turkey,
+.london-england,
+.machu-picchu-peru,
+.maldives,
+.manhattan-new-york {
+  position: absolute;
+  top: 1379px;
+  left: 662px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.hong-kong,
+.istanbul-turkey,
+.machu-picchu-peru,
+.maldives,
+.manhattan-new-york {
+  left: 1200px;
+}
+.hong-kong,
+.istanbul-turkey,
+.machu-picchu-peru,
+.manhattan-new-york {
+  top: 952px;
+  left: 670px;
+}
+.hong-kong,
+.machu-picchu-peru,
+.manhattan-new-york {
+  left: 1128px;
+}
+.hong-kong,
+.machu-picchu-peru {
+  top: 522px;
+  left: 656px;
+}
+.hong-kong {
+  left: 1191px;
+}
+.frame-child11 {
+  position: absolute;
+  top: 1582px;
+  left: 0;
+  background-color: #808080;
+  width: 1536px;
+  height: 356px;
+}
+.facebook-icon1,
+.twitterx-icon1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 43px;
+  height: 38px;
+  object-fit: cover;
+}
+.twitterx-icon1 {
+  left: 68px;
+}
+.instagram-icon1,
+.linkedin-2-icon1 {
+  position: absolute;
+  top: 0;
+  left: 135px;
+  width: 48px;
+  height: 42px;
+  object-fit: cover;
+}
+.linkedin-2-icon1 {
+  top: 2px;
+  left: 208px;
+  width: 43px;
+  height: 38px;
+}
+.facebook-group {
+  position: absolute;
+  top: 1811px;
+  left: 57px;
+  width: 251px;
+  height: 42px;
+}
+.about-us3,
+.contact-information1 {
+  position: absolute;
+  top: 1645px;
+  left: 454px;
+  font-weight: 500;
+  color: white;
+}
+.contact-information1 {
+  left: 813px;
+}
+.cancellation-policy1,
+.faqs1,
+.terms-conditions1,
+.travel-resources1 {
+  position: absolute;
+  top: 1721px;
+  left: 454px;
+  font-weight: 500;
+  color: white;
+}
+.cancellation-policy1,
+.terms-conditions1,
+.travel-resources1 {
+  top: 1683px;
+}
+.cancellation-policy1,
+.travel-resources1 {
+  top: 1759px;
+}
+.travel-resources1 {
+  top: 1797px;
+}
+.copyright-information1,
+.newsletter-signup1,
+.site-map1,
+.social-media-links1 {
+  position: absolute;
+  top: 1683px;
+  left: 813px;
+  font-weight: 500;
+  color: white;
+}
+.copyright-information1,
+.newsletter-signup1,
+.site-map1 {
+  top: 1835px;
+  left: 454px;
+}
+.copyright-information1,
+.site-map1 {
+  top: 1759px;
+  left: 813px;
+}
+.copyright-information1 {
+  top: 1721px;
+}
+.accessibility-statement1 {
+  top: 1835px;
+  left: 813px;
+  font-weight: 500;
+}
+.accessibility-statement1,
+.language-selector1,
+.romeease3 {
+  position: absolute;
+  color: white;
+}
+.language-selector1 {
+  top: 1797px;
+  left: 811px;
+  font-weight: 500;
+}
+.romeease3 {
+  top: 1732px;
+  left: 88px;
+  font-size: 30px;
+  font-family: Pacifico;
+  display: inline-block;
+  width: 142px;
+  height: 45px;
+}
+.image-46-icon1 {
+  position: absolute;
+  top: 1638px;
+  left: 73px;
+  width: 173px;
+  height: 118px;
+  object-fit: cover;
+}
+.stay-connected-with1 {
+  position: absolute;
+  top: 1645px;
+  left: 1155px;
+  font-size: 22px;
+  color: white;
+}
+.enter-your-e-mail1 {
+  position: absolute;
+  top: 1694px;
+  left: 1163px;
+  font-weight: 300;
+  color: #afafaf;
+}
+.frame-child12 {
+  position: absolute;
+  top: 1720.5px;
+  left: 1154.5px;
+  border-top: 1px solid white;
+  box-sizing: border-box;
+  width: 269px;
+  height: 1px;
+}
+.frame-child13 {
+  position: absolute;
+  top: 1743px;
+  left: 1155px;
+  border-radius: 40px;
+  background-color: #b6b6b6;
+  width: 150px;
+  height: 40px;
+}
+.send1 {
+  position: absolute;
+  top: 1752px;
+  left: 1208px;
+  font-weight: 500;
+  color: white;
+}
+.image-48-icon1 {
+  position: absolute;
+  top: 1479px;
+  left: 0;
+  width: 1536px;
+  height: 110px;
+  object-fit: cover;
+}
+.romeease-parent {
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 1938px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: black;
+  font-family: Inter;
+}
+
+a{
+  color: #000;
+  text-decoration: none;
+}
